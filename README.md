@@ -1,5 +1,5 @@
 # gitsearchapp
-A simple Gitsearch App
+A simple Javascript / HTML Gitsearch App
 
 Using Javascript and Fetch Api to search Github users by their Username
 
